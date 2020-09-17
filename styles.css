@@ -1,0 +1,43 @@
+body
+{margin:40px auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0 10px
+background-color:white;
+background-image:url(back.jpg);
+}
+
+/*pour la mise en page générale c'est le même code que pour le betterwebsite*/
+
+
+
+
+.motherfucking {color:purple;}
+
+ .guy {color:purple;}
+
+.WRONG {color:red;}
+
+.colors {color:pink
+	;}
+
+.b {color:blue;}
+
+/* les lignes de code ci-dessus servent à donner des couleurs à certains termes, on les différencie dans la page html */
+
+
+
+.small {font-size:12px;}
+
+/*les cinq codes suivants concernent des images, ça leur donne leur taille */
+
+.cat {
+	width:300px;
+}
+
+.kopimi {
+	width:190px;margin:80px;
+}
+
+.java {
+	width:20px;
+}
+.css {width: 20px;}
+.html {width:30px;}
